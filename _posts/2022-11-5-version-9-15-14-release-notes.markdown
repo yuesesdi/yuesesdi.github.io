@@ -4,9 +4,6 @@ title:  "9.15.14 Release Notes"
 date:   2022-11-5 12:00:00 +0800
 categories: blog
 ---
-# Glossary
-
----
 
 # Version 9.15.14
 
